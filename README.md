@@ -7,10 +7,10 @@
 3. Create React App
 4. Create Git Repository
 5. List Products
-   i. create products array
-   ii. add product images
-   iii. render products
-   iv. style products
+   1. create products array
+   2. add product images
+   3. render products
+   4. style products
 6. Add page routing
    1. npm i react-router-dom
    2. create route for home screen
@@ -32,3 +32,6 @@
    1. define reducer
    2. update fetch data
    3. get state from usReducer
+9. Add bootstrap UI Framework
+   1. npm install react-bootstrap bootstrap
+   2. update App.js
