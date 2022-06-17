@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.navbar-brand {
+  color: #ffffff;
+}
+
 .site-container {
   min-height: 100vh;
 }

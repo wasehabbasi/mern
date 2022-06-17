@@ -23,7 +23,7 @@ function App() {
           <Navbar bg="dark" varient="dark">
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>mern</Navbar.Brand>
+                <Navbar.Brand>My App</Navbar.Brand>
               </LinkContainer>
               <Nav className="me-auto">
                 <Link to="/cart" className="nav-link">
